@@ -1,6 +1,6 @@
 body {
     color: rgb(255, 233, 250);
-    background: rgb(86, 50, 110);
+    background: rgb(20, 11, 26);
     margin: 0px;
     font-family: "Fontdiner Swanky", serif;
     margin-bottom: 100px;
@@ -10,13 +10,21 @@ header {
     border-bottom: solid 2px rgb(20, 11, 26);
     padding: 20px;
     font-size: 32px;
-    color: rgb(130, 174, 214);
+    color: rgb(253, 246, 255);
 }
 
 .chamada {
-    background: rgb(20, 11, 26);
+    background: rgb(46, 30, 56);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 40px;
 }
