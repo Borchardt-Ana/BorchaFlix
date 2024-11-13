@@ -1,20 +1,20 @@
 body {
-    color: rgb(197, 46, 164);
-    background: rgb(19, 15, 37);
+    color: rgb(255, 233, 250);
+    background: rgb(86, 50, 110);
     margin: 0px;
     font-family: "Fontdiner Swanky", serif;
     margin-bottom: 100px;
 }
 
 header {
-    border-bottom: solid 2px rgb(16, 8, 29);
+    border-bottom: solid 2px rgb(20, 11, 26);
     padding: 20px;
     font-size: 32px;
-    color: rgb(255, 220, 249);
+    color: rgb(130, 174, 214);
 }
 
 .chamada {
-    background: rgb(35, 26, 71);
+    background: rgb(20, 11, 26);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
